@@ -1,0 +1,27 @@
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+/.vscode/
+.DS_Store
+/build
+/captures
+
+**/**/build/
+**/**/bin/
+**/**/gen/
+**/**/proguard/
+**/**/obj/
+
+#ignore IntelliJ IDEA file
+.idea/
+*.iml
+out/
+
+*android-app.keystore
+
+/module/companion
+
+/BleTool-Android
+*.log
+*.swp
